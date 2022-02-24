@@ -3,7 +3,7 @@ A MEVN stack to do list
 
 
 # Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NOMafMqZJqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![MEVN demo link](https://tinyimg.io/i/SwLXQmX.jpg)](https://www.youtube.com/watch?v=NOMafMqZJqo)
 
 ## Build Setup
 
