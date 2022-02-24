@@ -20,4 +20,4 @@ For detailed explanation on how things work, check out the [documentation](https
 
 ## Client
 
-This directory holds the NUXT application -- while the outside directory is the "server"
+The client directory holds the NUXT application -- while the outside directory is the "server"
