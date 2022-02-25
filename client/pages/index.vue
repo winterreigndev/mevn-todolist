@@ -36,7 +36,7 @@
                 v-model="editedTitle"
               />
               <p v-else class="text-p todo-title">
-                {{ item.title }}
+                <s>{{ item.title }}</s>
               </p>
             </div>
             <div>
@@ -46,7 +46,7 @@
                 v-model="editedDescription"
               />
               <p v-else class="text-p todo-description">
-                {{ item.description }}
+                <s>{{ item.description }}</s>
               </p>
             </div>
 
