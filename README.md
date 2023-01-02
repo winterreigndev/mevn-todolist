@@ -3,7 +3,7 @@ A MEVN stack to do list
 
 
 # Demo
-[![MEVN demo link](https://tinyimg.io/i/SwLXQmX.jpg)](https://www.youtube.com/watch?v=NOMafMqZJqo)
+https://www.youtube.com/watch?v=NOMafMqZJqo
 
 ## Build Setup
 
